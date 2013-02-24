@@ -4,9 +4,10 @@ PRINT-WITH-Java
 Printed on a thermal printer using Java
 
 Instructions:
+-------------
 
-javac Ticketera.java
+ $ javac Ticketera.java
 
-java Ticketera
+ $ java Ticketera
 
 Enjoy
