@@ -1,4 +1,4 @@
-# PRINT-WITH-Java
+# Printing example with Java
 
 ## Printed on a thermal printer using Java
 
@@ -6,4 +6,4 @@
     $ javac Ticketera.java
     $ java Ticketera
 
-Enjoy
+Enjoy!!
